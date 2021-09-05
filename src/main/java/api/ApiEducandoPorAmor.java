@@ -17,4 +17,5 @@ public class ApiEducandoPorAmor extends SpringBootServletInitializer {
         return builder.sources(ApiEducandoPorAmor.class);
     }
 
+
 }
